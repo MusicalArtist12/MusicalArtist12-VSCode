@@ -1,0 +1,21 @@
+{
+  "name": "transparent-color-theme",
+  "displayName": "transparent-color-theme",
+  "description": "written for MusicalArtist12/Dotfiles",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "transparent",
+        "uiTheme": "vs-dark",
+        "path": "./themes/transparent-color-theme.json"
+      }
+    ]
+  }
+}
