@@ -1,5 +1,1 @@
-# A transparent theme written to match [MusicalArtist12/Dotfiles](https://github.com/MusicalArtist12/Dotfiles)
-## Written by Julia Abdel-Monem
-
-
-
+A simple transparent theme written to match my personal dotfiles.
