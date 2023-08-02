@@ -6,9 +6,16 @@
   "engines": {
     "vscode": "^1.79.0"
   },
+  "author": {
+    "name": "Julia Abdel-Monem"
+  },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MusicalArtist12/transparent_theme_vscode/"
+  },
   "contributes": {
     "themes": [
       {
